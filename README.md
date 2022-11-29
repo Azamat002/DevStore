@@ -10,3 +10,8 @@ Front-end: html, css, bootstrap, javascript
 Back-end: PHP, MySQL
 ## **Home page**
 ![image](https://user-images.githubusercontent.com/80198432/204543786-c68e83ce-74ce-4906-946c-c32a8d4d5eed.png)
+## **Men's clothing page**
+![image](https://user-images.githubusercontent.com/80198432/204545364-b5854576-d223-42bc-b733-8c6d3c3ac2a6.png)
+## **Women's clothing page**
+![image](https://user-images.githubusercontent.com/80198432/204546098-85d9ec5c-cf1e-418d-b4cd-c99c682a07b5.png)
+
