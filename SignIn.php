@@ -7,10 +7,10 @@
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Sign in</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
+    <link rel="stylesheet" href="ncpage.css" media="screen">
     <link rel="stylesheet" href="Sign.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="ncpage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.9.3, nicepage.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
